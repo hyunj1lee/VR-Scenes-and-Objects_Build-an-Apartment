@@ -4,6 +4,18 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
 
+### Description
+- In this project, I'll create my own Apartment Scene based on 3D models and associated scripts provided by Udacity
+
+### Tasks
+- add at least 15 new models to the Apartment > it isn't recommended to use more than 50 objects
+- add cardboard functionality
+- player settings adjustment and first iteration
+- lighting > add area, spot, directional and directional Lights
+- bake lights
+- change non animated objects to static
+- second iteration
+- create animated globe spinning 360 degrees and set trigger to stop/start animation
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
