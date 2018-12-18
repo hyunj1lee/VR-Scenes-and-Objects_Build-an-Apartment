@@ -3,8 +3,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
-
-### Description
+- Student: Hyun Ji Lee
 - In this project, I'll create my own Apartment Scene based on 3D models and associated scripts provided by Udacity
 
 ### Tasks
